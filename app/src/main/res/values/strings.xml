@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pizza Planet</string>
+    <string name="textBemVindo">Seja bem-vindo(a) ao</string>
+    <string name="textEscolhaSabor">Escolha o sabor e quantidade:</string>
+    <string name="inputQuantidade">Quantidade</string>
+    <string name="textPizza1">Mussarela</string>
+    <string name="textPizza2">Peito de Peru</string>
+    <string name="textPizza3">Pepperoni</string>
+    <string name="textPizza4">Portuguesa</string>
+    <string name="buttonFazerPedido">Fazer pedido</string>
+    <string name="textPedidoConcluido">Pedido concluído!</string>
+    <string name="buttonOutroPedido">Fazer outro pedido</string>
+    <string name="buttonSair">Sair</string>
+</resources>
